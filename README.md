@@ -25,7 +25,7 @@ A new Flutter project.
 7.  fluttertoast: ^8.2.2
 8.  firebase_storage: ^11.2.5
 9.  cloud_firestore:
-10.     image_picker: ^0.8.7+5
+10. image_picker: ^0.8.7+5
 11.  uuid: ^3.0.7
 12.  google_sign_in: ^6.1.4
 13.  dio: ^5.3.2
